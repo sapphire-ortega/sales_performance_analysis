@@ -8,7 +8,7 @@ The dashboard provides a consolidated view of sales performance and allows users
 
 ## Dashboard
 
-![Sales Performance Dashboard](dashboard_preview.png)
+![Sales Performance Dashboard](dashboard_preview_png.png)
 
 ## Business Questions
 
